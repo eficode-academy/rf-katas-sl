@@ -139,7 +139,7 @@ Existence of `Setup` indicates to the test case reader, that there is some preco
 
 To ensure that changes are done in right manner run:
 
-  - Windows: double click the `04-setups_and_teardowns.cmd`
+  - Windows: run command `exercises\verify\04-setups_and_teardowns.cmd`
   - Linux/macOS: run `./exercises/verify/04-setups_and_teardowns.sh`
 
 If you see `Ready to proceed!` then you're done for the exercise. Otherwise check the output and fix, rerun.
