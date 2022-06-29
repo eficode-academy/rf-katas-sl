@@ -46,7 +46,7 @@ all uses of both `${username}` and `${USERNAME}` will access only that keyword a
 
 When the test passes run the following command to ensure that changes are done in right manner run:
 
-  - Windows: double click the `05-negative_testing.cmd`
+  - Windows: run command `exercises\verify\05-negative_testing.cmd`
   - Linux/macOS: run `./exercises/verify/05-negative_testing.sh`
 
 If you see `Ready to proceed!` then you're done for the exercise. Otherwise check the output and fix, rerun.

@@ -29,7 +29,7 @@ Write line by line, all the steps that you would need to perform if you were man
 
 After you've added steps that you think are needed to manually test login feature run:
 
-  - Windows: double click `01-manual_testing.cmd`
+  - Windows: run command `exercises\verify\01-manual_testing.cmd`
   - Linux/macOS: `./exercises/verify/01-manual_testing.sh`
 
 If the output is `Ready to proceed!` then you're good to go! Otherwise the check the output that what is missing?
